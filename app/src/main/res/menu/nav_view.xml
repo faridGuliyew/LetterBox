@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_profile"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/action_liked"
+        android:icon="@drawable/ic_like_enabled"
+        android:title="Liked" />
+    <item
+        android:id="@+id/action_watchlist"
+        android:icon="@drawable/ic_watchlist_enabled"
+        android:title="WatchList" />
+    <item
+        android:id="@+id/action_following"
+        android:icon="@drawable/ic_following"
+        android:title="Following" />
+    <item
+        android:id="@+id/action_reviews"
+        android:icon="@drawable/ic_review"
+        android:title="Reviews" />
+</menu>

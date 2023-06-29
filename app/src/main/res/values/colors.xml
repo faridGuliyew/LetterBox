@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#16db65</color>
+    <color name="light_green">#4ad66d</color>
+    <color name="main_bg">#181B20</color>
+    <color name="toolbar">#334C65</color>
+    <color name="grey">#CDCDCD</color>
+    <color name="light_blue">#A7C6C6</color>
+    <color name="pink">#E9A6A6</color>
+    <color name="orange">#FF8000</color>
+    <color name="blue">#40BCF4</color>
+    <color name="movieBg">#80E9A6A6</color>
+    <color name="mid_green">#FF00AA44</color>
+    <color name="following">#00BFA5</color>
+    <color name="follow">#C51162</color>
+</resources>
